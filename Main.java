@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * Peter Zhao
+ * pzhao62@wisc.edu || peterzhaoofficial@gmail.com
+ * peterz
  */
 import java.util.*;
 

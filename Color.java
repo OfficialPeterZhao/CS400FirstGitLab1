@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *	Peter Zhao
+ *	pzhao62@wisc.edu || Peterzhaoofficial@gmail.com
+ *	peterz
  */
 public class Color{
 	private String color;
